@@ -14,7 +14,8 @@ public class CourseController {
         return Arrays.asList(
                 new Course(1,"AWS","in for it"),
             new Course(2,"Java","in for it"),
-            new Course(3,"Spring","in for it")
+            new Course(3,"Spring","in for it"),
+                new Course(3,"Springboot","in for it")
         );
     }
 }
